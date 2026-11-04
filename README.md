@@ -103,9 +103,9 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Tools & Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5866838002/) | London, GB |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Europe |  | 2026-11-04 |
+| Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
@@ -292,10 +292,10 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8755768002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8628843002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | Europe |  | 2026-11-04 |
-| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | Europe |  | 2026-11-04 |
+| Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | Asia |  | 2026-11-04 |
+| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | United States |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) | New York, NY, US |  | 2026-11-04 |
@@ -525,9 +525,9 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/) | United States |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/) | Asia |  | 2026-11-04 |
+| Citadel | [Quantitative Research Engineer PhD Graduate](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Research Engineer PhD Graduate](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Europe |  | 2026-11-04 |
