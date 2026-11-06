@@ -1,10 +1,10 @@
-# Quant internships and new-grad jobs 2027 (637 open, updated 2026-11-05)
+# Quant internships and new-grad jobs 2027 (639 open, updated 2026-11-06)
 
 Quant trading, quant research and software internships and new-grad roles at trading firms, hedge funds and banks, read **daily** from the employers' own career pages (Greenhouse, Lever, Ashby, Workday, Radancy, Oracle and more, 20,000+ employers in all). No hand-picking and no paid placements; every link goes to the employer's own posting. Open roles posted in the last 180 days; 🆕 = posted in the last 2 days.
 
-**399 internships · 238 new-grad and entry-level roles · 119 employers** · median published US base **$150k** (33 postings with a range)
+**397 internships · 242 new-grad and entry-level roles · 118 employers** · median published US base **$148k** (34 postings with a range)
 
-Most open: Jane Street (65), Susquehanna International Group, LLP (53), Citadel (38), IMC (28), Goldman Sachs (26), Akuna Capital (26), Optiver (24), DV Trading (22), Jump Trading (22), Qube Research & Technologies (15), Tower Research Capital (15), Hudson River Trading (15), D. E. Shaw (13), Marshall Wace (12), Schonfeld (11)
+Most open: Jane Street (65), Susquehanna International Group, LLP (53), Citadel (38), IMC (29), Goldman Sachs (26), Akuna Capital (26), Optiver (24), DV Trading (22), Jump Trading (22), Qube Research & Technologies (15), Tower Research Capital (15), Hudson River Trading (14), D. E. Shaw (12), Marshall Wace (12), DRW (12)
 
 Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/Quant-Internships-2027](https://jordan-belfort-ai.github.io/Quant-Internships-2027/)
 
@@ -36,9 +36,9 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Citadel | [Quantitative Trader Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Trader Fixed Income Macro Rotational Trader Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) | United States |  | 2026-11-04 |
 | D. E. Shaw | [Proprietary Trading Intern (New York) – Summer 2027](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731) | New York, NY, US |  | 2026-11-04 |
-| Keyrock | 🆕 [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) | Brussels |  | 2026-11-03 |
-| Keyrock | 🆕 [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 2026-11-03 |
-| Keyrock | 🆕 [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 2026-11-03 |
+| Keyrock | [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) | Brussels |  | 2026-11-03 |
+| Keyrock | [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) | Brussels |  | 2026-11-03 |
+| Keyrock | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) | Brussels |  | 2026-11-03 |
 | Statkraft | [Intern in Algorithmic Trading & Asset Optimization (m/f/d)](https://jobs.smartrecruiters.com/Statkraft1/744000158710899) | Düsseldorf, North Rhine-Westphalia, Germany |  | 2026-10-30 |
 | Goldman Sachs | [2027 \| APEJ \| Singapore \| FICC and Equities (Sales and Trading) Quantitative Strats \| Summer Analyst](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/170600) | Singapore |  | 2026-10-29 |
 | Man Group | [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) | New York | USD 50-60/h | 2026-10-25 |
@@ -95,30 +95,32 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Wincent | [Quantitative Research Internship - Quant Research/Trading - Starting Summer 2027](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) | Bratislava | EUR 5k/mo | 2026-06-08 |
 | TransMarket Group | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Chicago, Illinois, United States |  | 2026-06-02 |
 
-### Research (174)
+### Research (175)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Davidson Kempner for LinkedIn | 🆕 [Quantitative Research Intern (London)](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002) | London |  | 2026-11-05 |
+| Davidson Kempner for LinkedIn | 🆕 [Quantitative Research Intern](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8928298002) | New York | USD 40 | 2026-11-05 |
 | IMC | 🆕 [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago, United States |  | 2026-11-04 |
 | Jane Street | [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York, NY, US | USD 250k | 2026-11-04 |
 | Jane Street | [Tools & Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5866838002/) | London, GB |  | 2026-11-04 |
-| Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | United States |  | 2026-11-04 |
+| Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Asia |  | 2026-11-04 |
-| Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Europe |  | 2026-11-04 |
+| Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | United States |  | 2026-11-04 |
+| Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | Europe |  | 2026-11-04 |
+| Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Sector Data Scientist 2027 Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | United States |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [AI Research Scientist - Intern \[2027 Summer\]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Quantitative Researcher - Intern \[2027 Summer\]](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945) | New York, NY, US |  | 2026-11-04 |
-| Schonfeld | 🆕 [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) | Hong Kong, Hong Kong |  | 2026-11-03 |
-| Keyrock | 🆕 [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 2026-11-03 |
+| Schonfeld | [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) | Hong Kong, Hong Kong |  | 2026-11-03 |
+| Keyrock | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | Brussels |  | 2026-11-03 |
 | Man Group | [Systematic Quant Intern - PhD](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Massachusetts | USD 55-65/h | 2026-11-02 |
 | First Citizens Bank | [2027 Summer Intern - Quantitative Modeling (Raleigh, NC)](https://jobs.firstcitizens.com/jobs/36317) | Raleigh, North Carolina |  | 2026-10-30 |
 | Marsh McLennan | [Praktikant:in Quantitative Investments (m/w/d)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852) | München, Germany |  | 2026-10-29 |
@@ -149,7 +151,6 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Statkraft | [Intern - Quantitative Portfolio Management (m/f/d)](https://jobs.smartrecruiters.com/Statkraft1/744000155025589) | Düsseldorf, North Rhine-Westphalia, Germany |  | 2026-10-12 |
 | Susquehanna International Group, LLP | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620) | Hong Kong, Hong Kong |  | 2026-10-08 |
 | IMC | [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | New York, United States |  | 2026-10-08 |
-| WINAMAX | [STAGE R&D - Modélisation quantitative du risque sur les marchés prédictifs](https://jobs.lever.co/winamax/90706879-c897-4e60-ade0-70705b970ab1) | France | EUR 2k/mo | 2026-10-08 |
 | Marshall Wace | [Quant Developer Intern - Hong Kong 2027](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002) | Hong Kong |  | 2026-10-07 |
 | MET Group | [Ingénieur(e) IT Quant - stage](https://jobs.smartrecruiters.com/METGroup/744000153679529) | Lyon, Auvergne-Rhône-Alpes, France |  | 2026-10-06 |
 | Hudson River Trading | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London, United Kingdom; New York, NY, United States |  | 2026-10-05 |
@@ -182,7 +183,6 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | BlackRock | [2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475) | Chicago, IL |  | 2026-09-15 |
 | Clearwater Analytics | [Quant Developer Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12182) | Office - New York |  | 2026-09-15 |
 | Base Power Company | [Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) | Austin, TX |  | 2026-09-14 |
-| ExodusPoint | [Quant Credit Intern - PA (Hybrid) - December 2026](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) | Wynnewood, PA |  | 2026-09-14 |
 | DV Trading | [Quantitative Research Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | New York |  | 2026-09-11 |
 | Synthesis | [Quantitative Research Intern (Summer 2027)](https://apply.workable.com/j/C2932F1DE5) | London, London, United Kingdom |  | 2026-09-11 |
 | Talos | [Quantitative Analyst Intern](https://jobs.ashbyhq.com/talos-trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b) | London, NYC | USD 50/h | 2026-09-08 |
@@ -197,6 +197,7 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Marshall Wace | [Quant Research Intern - London - 2027](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | London |  | 2026-09-02 |
 | Tower Research Capital | [Quantitative Researcher Intern, Bachelor's or Master's](https://www.tower-research.com/open-positions/?gh_jid=8168750) | Singapore, Hong Kong, Shanghai, Sydney |  | 2026-09-01 |
 | BlockTech | [Quantitative Researcher \| Internship \| Summer '27](https://jobs.ashbyhq.com/blocktech/b170f716-113b-4e6e-a883-473f3cabf062) | Amsterdam |  | 2026-08-28 |
+| IMC | [Quant Performance Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) | Chicago, United States |  | 2026-08-27 |
 | AQR | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Greenwich, CT |  | 2026-08-25 |
 | Jump Trading | [Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027898) | Hong Kong; Shanghai |  | 2026-08-25 |
 | IMC | [Deep Learning Research Intern - 2027 - Sydney](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) | Sydney,  Australia |  | 2026-08-24 |
@@ -298,9 +299,9 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8628843002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | Europe |  | 2026-11-04 |
+| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | Asia |  | 2026-11-04 |
-| Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | United States |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Software Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) | New York, NY, US |  | 2026-11-04 |
@@ -376,7 +377,7 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | TransMarket Group | [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) | Chicago, Illinois, United States |  | 2026-06-02 |
 | AQR | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | Greenwich, CT |  | 2026-05-15 |
 
-### Other (48)
+### Other (45)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
@@ -385,16 +386,14 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8630713002/) | Hong Kong, HK |  | 2026-11-04 |
 | Citadel | [Equities Citadel Associate Program Summer Internship 2028](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/) |  |  | 2026-11-04 |
 | Citadel | [International Equities Intern](https://www.citadel.com/careers/details/international-equities-intern-asia/) | Asia |  | 2026-11-04 |
-| Citadel | [Operations Analyst Intern](https://www.citadel.com/careers/details/operations-analyst-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Operations Analyst Intern](https://www.citadel.com/careers/details/operations-analyst-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Operations Intern](https://www.citadel.com/careers/details/operations-intern-asia/) | Asia |  | 2026-11-04 |
+| Citadel | [Operations Analyst Intern](https://www.citadel.com/careers/details/operations-analyst-intern-europe/) | Europe |  | 2026-11-04 |
 | D. E. Shaw | [JD/MBA Investment Analyst (New York) – Summer 2027](https://www.deshaw.com/careers/jd-mba-investment-analyst-new-york-summer-2027-6055) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [MBA Investment Analyst (New York) – Summer 2027](https://www.deshaw.com/careers/mba-investment-analyst-new-york-summer-2027-6054) | New York, NY, US |  | 2026-11-04 |
-| D. E. Shaw | [Strategy and Business Development Intern - Summer 2027 (Singapore)](https://www.deshaw.com/careers/strategy-and-business-development-intern-summer-2027-singapore-6005) | Singapore, SG |  | 2026-11-04 |
 | D. E. Shaw | [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/venture-studio-startup-incubator-intern-new-york-summer-2027-6166) | New York, NY, US |  | 2026-11-04 |
 | Qube Research & Technologies | [2027 - Internship, Surveillance](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926644002) | London |  | 2026-11-02 |
-| Schonfeld | [2027 Enterprise AI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | New York, New York, United States |  | 2026-10-28 |
 | Schonfeld | [2027 DMFI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) | New York, New York, United States |  | 2026-10-28 |
 | Tudor Group | [Summer Internship 2027](https://job-boards.greenhouse.io/tudorgroup/jobs/8103095) | NYC; Stamford, Connecticut; London, Singapore | USD 35-55/h | 2026-10-27 |
 | Bridgewater Associates | [2028 Investment Associate Intern - Hackathon Immersion](https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/8916615002) | New York City |  | 2026-10-26 |
@@ -408,7 +407,6 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Optiver | [Market Risk Internship 2027 - Singapore](https://www.optiver.com/join-us/jobs/8699349002/?gh_jid=8699349002) | Singapore |  | 2026-09-28 |
 | Schonfeld | [2027 Emerging Markets and Delta One Investment Analyst Internship](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) | Dubai, United Arab Emirates |  | 2026-09-21 |
 | Point72 | [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | New York, New York, United States, Stamford, Connecticut, Un |  | 2026-09-18 |
-| Hudson River Trading | [PhD Winter Internship - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741) | New York, NY, United States |  | 2026-09-18 |
 | Tower Research Capital | [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) | Gift City |  | 2026-09-07 |
 | Bridgewater Associates | [2028 Investment Associate Intern](https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/8779957002) | New York City |  | 2026-09-02 |
 | Garda Capital Partners | [Business Analyst Intern](https://job-boards.greenhouse.io/gardacp/jobs/6180020004) | Geneva, Geneva, Switzerland |  | 2026-09-02 |
@@ -520,19 +518,20 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Qube Research & Technologies | [Junior Quantitative Trader - APAC Delta One](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8546914002) | Sydney |  | 2026-06-02 |
 | State Street | [FX Junior Trader, Off](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/FX-Junior-Trader--Off_R-789905) | Taipei, Taiwan |  | 2026-05-11 |
 
-### Research (79)
+### Research (80)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/) | United States |  | 2026-11-04 |
+| GSA | 🆕 [Quant Workshop GSA x AlgoSoc 2026](https://www.gsacapital.com/careers/gh/?gh_jid=8931606002) | London |  | 2026-11-05 |
 | Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Asia |  | 2026-11-04 |
+| Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Europe |  | 2026-11-04 |
-| Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Graduate](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | United States |  | 2026-11-04 |
+| Citadel | [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) | United States |  | 2026-11-04 |
+| Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Researcher PhD Graduate](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Europe |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst (open to students and new grads)](https://www.deshaw.com/careers/quantitative-analyst-2636) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [AI Research Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Data Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) | New York, NY, US |  | 2026-11-04 |
@@ -604,10 +603,12 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Headlands Technologies LLC | [Quantitative Researcher – New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) | Amsterdam; Chicago; London; New York |  | 2026-05-29 |
 | Squarepoint Capital | [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | London, Montreal, Singapore |  | 2026-05-12 |
 
-### Software & tech (54)
+### Software & tech (57)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Man Group | 🆕 [Technology Graduate Programme – Software Engineer (Python)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978868101) | Sofia |  | 2026-11-05 |
+| Man Group | 🆕 [Technology Graduate Programme – Software Engineer (C#/.Net)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978867101) | Sofia |  | 2026-11-05 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842136002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842129002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8613910002/) | New York, NY, US | USD 250k-300k | 2026-11-04 |
@@ -620,8 +621,8 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8637960002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8646746002/) | Singapore, SG |  | 2026-11-04 |
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8594541002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Citadel | [Software Engineer University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Software Engineer University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) | United States |  | 2026-11-04 |
+| Citadel | [Software Engineer University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/) | Europe |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer (open to students and new grads)](https://www.deshaw.com/careers/software-developer-2646) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Software Engineering Full-Time Campus Hire - London](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020) | London, GB |  | 2026-11-04 |
@@ -632,6 +633,7 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | TransMarket Group | [Junior Data Center/Desktop Engineer](https://job-boards.greenhouse.io/transmarketgroup/jobs/5262802007?gh_jid=5262802007) | Chicago, Illinois, United States |  | 2026-10-09 |
 | Tower Research Capital | [Software Engineer, C++ - Graduate Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8245433) | Hong Kong, Singapore |  | 2026-10-01 |
 | IMC | [Software Engineer, Early Career](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) | Chicago, United States |  | 2026-09-30 |
+| DRW | [Junior FPGA Engineer](https://job-boards.greenhouse.io/drweng/jobs/8239996) | Singapore |  | 2026-09-30 |
 | Headlands Technologies LLC | [C++ Software Developer - New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) | Amsterdam; Chicago |  | 2026-09-16 |
 | Tower Research Capital | [Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer](https://www.tower-research.com/open-positions/?gh_jid=8126667) | Montreal |  | 2026-09-15 |
 | IMC | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) | Amsterdam, Netherlands |  | 2026-09-14 |
