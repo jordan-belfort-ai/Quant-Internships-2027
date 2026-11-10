@@ -1,10 +1,10 @@
-# Quant internships and new-grad jobs 2027 (637 open, updated 2026-11-09)
+# Quant internships and new-grad jobs 2027 (637 open, updated 2026-11-10)
 
 Quant trading, quant research and software internships and new-grad roles at trading firms, hedge funds and banks, read **daily** from the employers' own career pages (Greenhouse, Lever, Ashby, Workday, Radancy, Oracle and more, 20,000+ employers in all). No hand-picking and no paid placements; every link goes to the employer's own posting. Open roles posted in the last 180 days; 🆕 = posted in the last 2 days.
 
-**398 internships · 239 new-grad and entry-level roles · 118 employers** · median published US base **$148k** (34 postings with a range)
+**399 internships · 238 new-grad and entry-level roles · 115 employers** · median published US base **$148k** (34 postings with a range)
 
-Most open: Jane Street (65), Susquehanna International Group, LLP (53), Citadel (39), IMC (28), Goldman Sachs (26), Akuna Capital (25), Optiver (23), DV Trading (22), Jump Trading (22), Qube Research & Technologies (15), Tower Research Capital (15), Point72 (14), Hudson River Trading (14), D. E. Shaw (12), Marshall Wace (11)
+Most open: Jane Street (67), Susquehanna International Group, LLP (53), Citadel (39), IMC (28), Goldman Sachs (26), Akuna Capital (25), Optiver (23), DV Trading (22), Jump Trading (22), Qube Research & Technologies (15), Tower Research Capital (15), Point72 (14), Hudson River Trading (14), D. E. Shaw (12), Marshall Wace (11)
 
 Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/Quant-Internships-2027](https://jordan-belfort-ai.github.io/Quant-Internships-2027/)
 
@@ -19,20 +19,20 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8648474002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8596771002/) | Hong Kong, HK |  | 2026-11-04 |
-| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8594416002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY, US | USD 300k | 2026-11-04 |
+| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8474416002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623868002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617344002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623733002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8474407002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Sales and Trading (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8347385002/) | New York, NY, US | USD 225k | 2026-11-04 |
 | Jane Street | [Sales and Trading (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8537797002/) | London, GB |  | 2026-11-04 |
+| Jane Street | [Sales and Trading (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8347385002/) | New York, NY, US | USD 225k | 2026-11-04 |
 | Jane Street | [Sales and Trading (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8630687002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Trading Desk Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8621450002/) | New York, NY, US | USD 225k | 2026-11-04 |
 | Jane Street | [Trading Desk Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8620505002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Trading Desk Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8700980002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Trading Desk Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8621450002/) | New York, NY, US | USD 225k | 2026-11-04 |
 | Citadel | [Investment Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Trader Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Trader Fixed Income Macro Rotational Trader Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) | United States |  | 2026-11-04 |
@@ -95,23 +95,26 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Wincent | [Quantitative Research Internship - Quant Research/Trading - Starting Summer 2027](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) | Bratislava | EUR 5k/mo | 2026-06-08 |
 | TransMarket Group | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Chicago, Illinois, United States |  | 2026-06-02 |
 
-### Research (177)
+### Research (178)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Jane Street | 🆕 [Formal Methods Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8927052002/) | London, GB |  | 2026-11-10 |
+| Jane Street | 🆕 [Formal Methods Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8927083002/) | New York, NY, US | USD 300k | 2026-11-10 |
+| Invesco | 🆕 [Intern, Quantitative Research (6 months fixed-term contract)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Frankfurt-Hesse/Intern--Quantitative-Research--6-months-fixed-term-contract-_R-15889) | Frankfurt, Hesse |  | 2026-11-09 |
 | Point72 | [Long/Short Equity Support Research Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) | Hong Kong |  | 2026-11-06 |
 | Point72 | [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) | Hong Kong, Singapore, Japan |  | 2026-11-06 |
 | Bank of | [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Toronto, ON, CAN |  | 2026-11-06 |
-| Davidson Kempner for LinkedIn | [Quantitative Research Intern (London)](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002) | London |  | 2026-11-05 |
+| Davidson Kempner for LinkedIn | [Quantitative Investment Research Intern (London)](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002) | London |  | 2026-11-05 |
 | Davidson Kempner for LinkedIn | [Quantitative Research Intern](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8928298002) | New York | USD 40 | 2026-11-05 |
 | IMC | [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago, United States |  | 2026-11-04 |
 | Jane Street | [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York, NY, US | USD 250k | 2026-11-04 |
 | Jane Street | [Tools & Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5866838002/) | London, GB |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern BS/MS](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Asia |  | 2026-11-04 |
+| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/) | Asia |  | 2026-11-04 |
@@ -168,7 +171,6 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Man Group | [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101) | Shanghai |  | 2026-09-22 |
 | Sanofi | [2027 Spring Co-op Quantitative Pharmacology, Morristown, NJ](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/XMLNAME-2027-Spring-Co-op-Quantitative-Pharmacology--Morristown--NJ_R2851923) | Morristown, NJ | USD 57-60/h | 2026-09-22 |
 | Lazard | [2027 Quantitative Research Summer Internship](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | New York, United States |  | 2026-09-21 |
-| Rothesay Graduates | [2027 Summer Internship Programme - Quantitative Strategist](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002) | London |  | 2026-09-17 |
 | The Voleon Group | [Research Intern (London)](https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e) | London |  | 2026-09-16 |
 | Waymo | [2027 Summer Intern, MS/PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View, California, United States \| San Francisco, Ca | USD 70/h | 2026-09-16 |
 | BlackRock | [2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | London, Greater London |  | 2026-09-16 |
@@ -274,31 +276,30 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Voloridge Investment Management | [Quantitative Research Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL |  | 2026-06-11 |
 | Walleye Capital Internships | [Equity Volatility Quant Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Miami, FL |  | 2026-06-01 |
 | GSA | [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002) | London, New York | USD 15k-20k/mo | 2026-05-29 |
-| AQR | [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Greenwich, CT |  | 2026-05-26 |
 | AQR | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Greenwich, CT |  | 2026-05-15 |
 
 ### Software & tech (95)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8810604002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) | New York, NY, US | USD 250k | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8651323002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8624440002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Jane Street | [IT Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8651274002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [IT Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8641377002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [IT Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8651274002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [IT Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8641280002/) | New York, NY, US | USD 125k | 2026-11-04 |
 | Jane Street | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626260002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Jane Street | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626146002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8625946002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626146002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Network Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8693539002/) | Singapore, SG |  | 2026-11-04 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632392002/) | Singapore, SG |  | 2026-11-04 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8589868002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Jane Street | [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8755768002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8628843002/) | New York, NY, US | USD 300k | 2026-11-04 |
+| Jane Street | [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8755768002/) | London, GB |  | 2026-11-04 |
 | Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | United States |  | 2026-11-04 |
@@ -383,14 +384,14 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | --- | --- | --- | --- | --- |
 | Point72 | [2027 Economist Intern](https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002) | Singapore |  | 2026-11-06 |
 | Point72 | [Corporate Access Intern](https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002) | Hong Kong |  | 2026-11-06 |
+| Jane Street | [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8630713002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8621552002/) | New York, NY, US | USD 250k | 2026-11-04 |
 | Jane Street | [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8518854002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8630713002/) | Hong Kong, HK |  | 2026-11-04 |
 | Citadel | [Equities Citadel Associate Program Summer Internship 2028](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/) |  |  | 2026-11-04 |
 | Citadel | [International Equities Intern](https://www.citadel.com/careers/details/international-equities-intern-asia/) | Asia |  | 2026-11-04 |
+| Citadel | [Operations Intern](https://www.citadel.com/careers/details/operations-intern-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Operations Analyst Intern](https://www.citadel.com/careers/details/operations-analyst-intern-europe/) | Europe |  | 2026-11-04 |
 | Citadel | [Operations Analyst Intern](https://www.citadel.com/careers/details/operations-analyst-intern-us/) | United States |  | 2026-11-04 |
-| Citadel | [Operations Intern](https://www.citadel.com/careers/details/operations-intern-asia/) | Asia |  | 2026-11-04 |
 | D. E. Shaw | [JD/MBA Investment Analyst (New York) – Summer 2027](https://www.deshaw.com/careers/jd-mba-investment-analyst-new-york-summer-2027-6055) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [MBA Investment Analyst (New York) – Summer 2027](https://www.deshaw.com/careers/mba-investment-analyst-new-york-summer-2027-6054) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Strategy and Business Development MBA Summer Associate (New York) – Summer 2027](https://www.deshaw.com/careers/strategy-and-business-development-mba-summer-associate-new-york-summer-2027-6088) | New York, NY, US |  | 2026-11-04 |
@@ -430,19 +431,21 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 
 ## New grad and entry-level
 
-### Trading (82)
+### Trading (81)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Andercore | 🆕 [Junior Procurement Trader](https://jobs.ashbyhq.com/andercore/c40a37b7-2558-4ab6-bb63-dd44673f12e9) | Berlin | EUR 70k-90k | 2026-11-09 |
+| BayWa AG | 🆕 [Junior Trader (m/w/d)](https://jobs.smartrecruiters.com/BayWaAG/744000160557569) | Dettelbach, BY, Germany |  | 2026-11-09 |
 | Optiver - Trading Academy | [TU Delft Trading Academy 2026](https://job-boards.greenhouse.io/tradingacademy2025/jobs/8929890002) | Netherlands |  | 2026-11-04 |
-| Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576928002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576931002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576934002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576928002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8754684002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8600948002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8573726002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8573523002/) | New York, NY, US | USD 300k | 2026-11-04 |
+| Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8576270002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Trading Desk Operations Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8759009002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Trading Desk Operations Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8782247002/) | London, GB |  | 2026-11-04 |
@@ -452,19 +455,16 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | BlockTech | [Junior Quantitative Trader \| Crypto Options](https://jobs.ashbyhq.com/blocktech/b62d71ac-b0c1-4383-8d9a-a687a4a723e3) | Amsterdam |  | 2026-10-28 |
 | Oddin | [Junior Esport Trader](https://jobs.lever.co/oddin/d727f89f-cdd9-4b0b-aa00-311f4b30b1bc) | Prague |  | 2026-10-23 |
 | International Food Connectors | [Junior Trader](https://internationalfoodconnectors.recruitee.com/o/junior-trader-1) | Rotterdam, Zuid-Holland, Netherlands |  | 2026-10-22 |
-| Playtech | [Junior Trader](https://jobs.smartrecruiters.com/Playtech/744000156268904) | Sofia, Bulgaria |  | 2026-10-19 |
 | G-20 Group | [Junior-Mid Options Trader (US Hours)](https://apply.workable.com/j/C2C39298E9) | London, England, United Kingdom |  | 2026-10-16 |
 | Susquehanna International Group, LLP | [Trading Operations Analyst Graduate: 2027 \| London](https://careers.sig.com/jobs/11443) | London, United Kingdom |  | 2026-10-15 |
 | Statkraft | [Junior Intraday Shift Trader](https://jobs.smartrecruiters.com/Statkraft1/744000155716310) | Madrid, Madrid, Spain |  | 2026-10-15 |
 | Andercore | [Junior Sales Trader  (Berlin based)](https://jobs.ashbyhq.com/andercore/b15cb082-d302-42aa-b6e0-6c883b6043c6) | Berlin |  | 2026-10-12 |
 | DV Trading | [Junior Fixed Income Relative Value Trader](https://job-boards.greenhouse.io/dvtrading/jobs/4742897005) | Chicago |  | 2026-10-12 |
-| BayWa AG | [Junior Trader (m/w/d)](https://jobs.smartrecruiters.com/BayWaAG/744000154638289) | München, BY, Germany |  | 2026-10-09 |
 | Susquehanna International Group, LLP | [Trading Operations Analyst Graduate: 2027](https://careers.sig.com/jobs/11442) | Dublin, Ireland |  | 2026-10-07 |
 | Louis Dreyfus Company | [Junior Trader](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000153675520) | Jakarta, Indonesia |  | 2026-10-06 |
 | Optiver | [Career Kickstarter - Trading 2027](https://www.optiver.com/join-us/jobs/8859789002/?gh_jid=8859789002) | Amsterdam, North Holland, Netherlands |  | 2026-10-02 |
 | Graviton Research Capital LLP | [Graduate Central Execution Trader](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8862376002) | Singapore |  | 2026-10-01 |
 | Old Mission | [Junior Quantitative Trader (APAC)](https://jobs.ashbyhq.com/old-mission-capital/7c434ea7-0adb-489a-b3b9-fdd8480900d3) | Hong Kong |  | 2026-10-01 |
-| Bybit | [\[EU\] Junior Derivatives Trader](https://job-boards.eu.greenhouse.io/bybit/jobs/4994956101) | Vienna, Austria |  | 2026-10-01 |
 | Walleye Capital | [Loons Junior Trader](https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4707117006) | Minnesota |  | 2026-09-22 |
 | DV Trading | [Junior Trading Operations Analyst](https://job-boards.greenhouse.io/dvtrading/jobs/4736720005) | London |  | 2026-09-22 |
 | Old Mission | [Floor Trader - 2027 Graduate Program (August Start)](https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161) | Chicago, IL | USD 80k-100k | 2026-09-16 |
@@ -604,17 +604,17 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| Citadel | 🆕 [Citadel Securities 2027 US PhD Summit](https://www.citadel.com/careers/details/citadel-securities-2027-us-phd-summit/) |  |  | 2026-11-09 |
+| Citadel | [Citadel Securities 2027 US PhD Summit](https://www.citadel.com/careers/details/citadel-securities-2027-us-phd-summit/) |  |  | 2026-11-09 |
 | Man Group | [Technology Graduate Programme – Software Engineer (Python)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978868101) | Sofia |  | 2026-11-05 |
 | Man Group | [Technology Graduate Programme – Software Engineer (C#/.Net)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978867101) | Sofia |  | 2026-11-05 |
-| Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842136002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842129002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842136002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8613910002/) | New York, NY, US | USD 250k-300k | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (New Grad)](https://www.janestreet.com/join-jane-street/position/8646893002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (New Grad)](https://www.janestreet.com/join-jane-street/position/8651405002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8651286002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8635672002/) | New York, NY, US | USD 250k-300k | 2026-11-04 |
 | Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8643171002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8635672002/) | New York, NY, US | USD 250k-300k | 2026-11-04 |
+| Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8651286002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8647260002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8637960002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8646746002/) | Singapore, SG |  | 2026-11-04 |
