@@ -1,8 +1,8 @@
-# Quant internships and new-grad jobs 2027 (631 open, updated 2026-11-13)
+# Quant internships and new-grad jobs 2027 (630 open, updated 2026-11-13)
 
 Quant trading, quant research and software internships and new-grad roles at trading firms, hedge funds and banks, read **daily** from the employers' own career pages (Greenhouse, Lever, Ashby, Workday, Radancy, Oracle and more, 20,000+ employers in all). No hand-picking and no paid placements; every link goes to the employer's own posting. Open roles posted in the last 180 days; 🆕 = posted in the last 2 days.
 
-**398 internships · 233 new-grad and entry-level roles · 117 employers** · median published US base **$150k** (35 postings with a range)
+**398 internships · 232 new-grad and entry-level roles · 117 employers** · median published US base **$150k** (35 postings with a range)
 
 Most open: Jane Street (67), Susquehanna International Group, LLP (53), Citadel (39), IMC (27), Akuna Capital (24), Goldman Sachs (24), Optiver (23), DV Trading (22), Jump Trading (22), Tower Research Capital (16), Qube Research & Technologies (15), Point72 (14), Hudson River Trading (14), Schonfeld (13), D. E. Shaw (13)
 
@@ -514,7 +514,7 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | TransMarket Group | [Junior Quantitative Trader](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) | Chicago, Illinois, United States |  | 2026-06-02 |
 | Qube Research & Technologies | [Junior Quantitative Trader - APAC Delta One](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8546914002) | Sydney |  | 2026-06-02 |
 
-### Research (77)
+### Research (76)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
@@ -523,7 +523,6 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | GSA | [Quant Workshop GSA x AlgoSoc 2026](https://job-boards.greenhouse.io/gsacapital/jobs/8931606002) | London |  | 2026-11-05 |
 | D. E. Shaw | [Quantitative Analyst (open to students and new grads)](https://www.deshaw.com/careers/quantitative-analyst-2636) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [AI Research Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671) | New York, NY, US |  | 2026-11-04 |
-| Two Sigma | [Data Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Quantitative Researcher - Full-Time Campus Hire](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946) | New York, NY, US |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Asia |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Graduate](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/) | United States |  | 2026-11-04 |
