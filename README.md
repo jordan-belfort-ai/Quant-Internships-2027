@@ -1,8 +1,8 @@
-# Quant internships and new-grad jobs 2027 (630 open, updated 2026-11-13)
+# Quant internships and new-grad jobs 2027 (631 open, updated 2026-11-13)
 
 Quant trading, quant research and software internships and new-grad roles at trading firms, hedge funds and banks, read **daily** from the employers' own career pages (Greenhouse, Lever, Ashby, Workday, Radancy, Oracle and more, 20,000+ employers in all). No hand-picking and no paid placements; every link goes to the employer's own posting. Open roles posted in the last 180 days; 🆕 = posted in the last 2 days.
 
-**398 internships · 232 new-grad and entry-level roles · 117 employers** · median published US base **$150k** (35 postings with a range)
+**398 internships · 233 new-grad and entry-level roles · 117 employers** · median published US base **$150k** (35 postings with a range)
 
 Most open: Jane Street (67), Susquehanna International Group, LLP (53), Citadel (39), IMC (27), Akuna Capital (24), Goldman Sachs (24), Optiver (23), DV Trading (22), Jump Trading (22), Tower Research Capital (16), Qube Research & Technologies (15), Point72 (14), Hudson River Trading (14), D. E. Shaw (13), Schonfeld (13)
 
@@ -19,11 +19,11 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Fundamental Research Analyst (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8347286002/) | New York, NY, US | USD 250k | 2026-11-04 |
 | Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8648474002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8594416002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8596771002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | New York, NY, US | USD 300k | 2026-11-04 |
-| Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY, US | USD 300k | 2026-11-04 |
+| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8596771002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8594416002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623868002/) | Hong Kong, HK |  | 2026-11-04 |
+| Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8474416002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617344002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623733002/) | Hong Kong, HK |  | 2026-11-04 |
@@ -443,8 +443,8 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576934002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576928002/) | New York, NY, US | USD 300k | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576931002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8600948002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8573726002/) | New York, NY, US | USD 300k | 2026-11-04 |
+| Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8600948002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8754684002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8573523002/) | New York, NY, US | USD 300k | 2026-11-04 |
@@ -514,11 +514,12 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | TransMarket Group | [Junior Quantitative Trader](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) | Chicago, Illinois, United States |  | 2026-06-02 |
 | Qube Research & Technologies | [Junior Quantitative Trader - APAC Delta One](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8546914002) | Sydney |  | 2026-06-02 |
 
-### Research (76)
+### Research (77)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
 | D. E. Shaw | [Quantitative Researcher (open to students and new grads)](https://www.deshaw.com/careers/quantitative-researcher-2636) | New York, NY, US |  | 2026-11-13 |
+| Two Sigma | 🆕 [Quantitative Analyst](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Analyst/14240) | New York, NY, US |  | 2026-11-13 |
 | Deloitte | 🆕 [(Junior) Consultant (all genders) - Advisory/Quantitative Finance](https://jobs.smartrecruiters.com/DeloitteAT/744000161283910) | Wien, Austria |  | 2026-11-12 |
 | KeyBank | 🆕 [2027 Analytics and Quantitative Modeling Rotational Analyst Program- Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1) | Cleveland, OH |  | 2026-11-12 |
 | GSA | [Quant Workshop GSA x AlgoSoc 2026](https://job-boards.greenhouse.io/gsacapital/jobs/8931606002) | London |  | 2026-11-05 |
@@ -605,8 +606,8 @@ Filterable page (search by firm, city or country): [jordan-belfort-ai.github.io/
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842129002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8613910002/) | New York, NY, US | USD 250k-300k | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8842136002/) | London, GB |  | 2026-11-04 |
-| Jane Street | [Hardware Engineer (FPGA/ASIC) (New Grad)](https://www.janestreet.com/join-jane-street/position/8651405002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (New Grad)](https://www.janestreet.com/join-jane-street/position/8646893002/) | New York, NY, US | USD 300k | 2026-11-04 |
+| Jane Street | [Hardware Engineer (FPGA/ASIC) (New Grad)](https://www.janestreet.com/join-jane-street/position/8651405002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8651286002/) | London, GB |  | 2026-11-04 |
 | Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8643171002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Linux Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8635672002/) | New York, NY, US | USD 250k-300k | 2026-11-04 |
